@@ -11,13 +11,15 @@
 .hp{
     text-align:center;
     color:green;
+    font-size: 50px;
+
 }
 .cube {
     background-color: rgb(210, 255, 210);
     padding:20px;
     margin:10px;
-    height:450px;
-    font-size: 80px;
+    height:300px;
+    font-size: 60px;
     font-weight: bold;
 }
 
@@ -25,12 +27,16 @@
     background-color: rgb(210, 210, 210);
     padding:20px;
     margin:10px;
-    height:450px;
-    font-size: 80px;
+    height:300px;
+    font-size: 60px;
     font-weight: bold;
 }
 
 .fas{
     text-align: center;
     color:green;
+}
+
+p {
+    margin-bottom: 0px;
 }
